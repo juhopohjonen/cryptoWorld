@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+h1, h2, h3, h4, p, span, a, li, ul
+{
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+body
+{
+
+    background-color: #964B00;
+
+}
+
+h1
+{
+    text-align: center;
+}
+
+.bigDiv
+{
+    padding: 2.5%;
+}
+
+.cryptoNews
+{
+    background-color:#7e4002;
+}
